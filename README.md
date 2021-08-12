@@ -1,6 +1,6 @@
 # DATAPATH-CONTROLPATH
-A datapath is a collection of functional units such as arithmetic logic units or multipliers that perform data processing operations, registers, and buses. 
-Control path, which implements a finite state machine and provide controlsignals to the data path in proper sequence.
+##A datapath is a collection of functional units such as arithmetic logic units or multipliers that perform data processing operations, registers, and buses. 
+##Control path, which implements a finite state machine and provide controlsignals to the data path in proper sequence.
 OUTPUT:
 
 #        0@B Value(input)=         x  @Rotation number=         x @A Value=         x  @P value=         x @operation Value=         x  @Result=         x @status=x
